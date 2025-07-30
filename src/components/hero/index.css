@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root{
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --color-primary: #0C0E1D;
+  --color-secondary :#616083 ;
+  --color-third : #ff81ff;
+  --color-fourth : #51faaa;
+  --color-white : #f0f0f0;
+  --color-white-op: rgba(240, 240, 240, 0.6);
+  --color-white-opp: rgba(240, 240, 240, 0.0001)
+}
